@@ -206,7 +206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06b59e4bb9cefcd4fa519b1024697959, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 30
+  health: 250
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
 --- !u!114 &6197556401781994164
 MonoBehaviour:
